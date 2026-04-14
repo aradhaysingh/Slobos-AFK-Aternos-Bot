@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Elementsmpasia.aternos.me:43572",
+    "ip": "Elementsmpasia.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
